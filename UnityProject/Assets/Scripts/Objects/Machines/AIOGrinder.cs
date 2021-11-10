@@ -1,8 +1,8 @@
 ﻿using System;
 using UnityEngine;
 using Mirror;
-using Chemistry;
-using Chemistry.Components;
+using Systems.Chemistry;
+using Systems.Chemistry.Components;
 
 namespace Objects.Kitchen
 {
